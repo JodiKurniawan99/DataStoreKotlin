@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DataStoreKotlin</string>
+    <string name="dark_mode">Dark Mode</string>
 </resources>
